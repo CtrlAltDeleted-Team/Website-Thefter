@@ -1,4 +1,4 @@
-# Website Thefter ## RU
+# Website Thefter - RU
 
 [![Python](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/)
 [![Requests](https://img.shields.io/badge/requests-latest-green.svg)](https://pypi.org/project/requests/)
