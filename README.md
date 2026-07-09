@@ -26,6 +26,7 @@ pip install requests beautifulsoup4
 ## Установка и запуск
 Важно: все файлы из архива должны лежать в одной папке
 - Скачайте архив и распакуйте его.
+  
  ```bash
 git clone https://github.com/CtrlAltDeleted-Team/Website-Thefter.git
 ```
