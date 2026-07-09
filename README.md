@@ -41,3 +41,22 @@ git clone https://github.com/CtrlAltDeleted-Team/Website-Thefter.git
 ```bash
 python main.py
 ```
+# Website Thefter - EN
+
+[![Python](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/)
+[![Requests](https://img.shields.io/badge/requests-latest-green.svg)](https://pypi.org/project/requests/)
+[![BeautifulSoup4](https://img.shields.io/badge/beautifulsoup4-latest-green.svg)](https://pypi.org/project/beautifulsoup4/)
+
+A tool to save a complete copy of a web page with all resources to a local drive. Allows you to browse the site offline without an Internet connection.
+
+## Features
+- Downloads the entire page: HTML, CSS, JavaScript, images, fonts, videos.
+-  Replaces all references to local paths
+- Interface in Russian and English.
+
+## How it works 
+- You copy the link to the site you need
+  - Send to our utility
+- After ~5-10 seconds, it gets the finished folder at the root
+ - There, go to the folder with the name of the site
+ - Run.html file
