@@ -56,7 +56,29 @@ A tool to save a complete copy of a web page with all resources to a local drive
 
 ## How it works 
 - You copy the link to the site you need
-  - Send to our utility
+- Send to our utility
 - After ~5-10 seconds, it gets the finished folder at the root
- - There, go to the folder with the name of the site
- - Run.html file
+- There, go to the folder with the name of the site
+- Run.html file
+
+## Requirements
+
+- Python 3.8 or later
+- Install dependencies:
+```bash
+pip install requests beautifulsoup4
+```
+
+## Installation and Startup 
+Important: all files from the archive must be in the same folder 
+- Download the archive and unzip it.
+ ```bash
+git clone https://github.com/CtrlAltDeleted-Team/Website-Thefter.git
+```
+
+- Make sure that all files are in the same folder, do not put them in different places.
+
+- Perform
+```bash
+python main.py
+```
