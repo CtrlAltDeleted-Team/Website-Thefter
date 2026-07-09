@@ -1,5 +1,9 @@
 # Website Thefter
 
+[![Python](https://img.shields.io/badge/python-3.10+-green.svg)](https://www.python.org/)
+[![Requests](https://img.shields.io/badge/requests-latest-green.svg)](https://pypi.org/project/requests/)
+[![BeautifulSoup4](https://img.shields.io/badge/beautifulsoup4-latest-green.svg)](https://pypi.org/project/beautifulsoup4/)
+
 Инструмент для сохранения полной копии веб-страницы со всеми ресурсами на локальный диск. Позволяет просматривать сайт офлайн без подключения к интернету.
 
 ## Возможности
